@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daimka</h1>
+<!-- <h1 align="center">Hi 👋, I'm Daimka</h1>
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daimkaa&label=Profile%20views&color=0e75b6&style=flat" alt="daimkaa" /> </p>
@@ -17,7 +17,7 @@
 <p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daimkaa&show_icons=true&locale=en" alt="daimkaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daimkaa&show_icons=true&locale=en" alt="daimkaa" /></p> -->
 
 
 <p align="center">
@@ -27,10 +27,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <img src="https://badges.pufler.dev/visits/Daimkaa/Daimkaa"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/repos/Daimkaa"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Daimkaa" />
 
 </p>
 
