@@ -19,7 +19,7 @@
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daimkaa/Daimkaa/output/github-contribution-grid-snake.svg" alt="snake"></center>
