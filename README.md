@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Daimka</h1>
+<!--
 <p align="center">A passionate frontend developer from Mongolia</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daimkaa&show_icons=true&locale=en" alt="daimkaa" /></p> -->
