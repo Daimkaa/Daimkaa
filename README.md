@@ -8,7 +8,6 @@
  
 </p align="center">
 <img src="https://i.imgur.com/eOXygjI.png" />
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg"/>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
@@ -33,6 +32,7 @@
 <br>
 
 <p align = "center">
+ <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg"/>
   <img  src = "https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&hide=html,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
