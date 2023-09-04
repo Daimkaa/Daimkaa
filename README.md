@@ -8,6 +8,7 @@
  
 </p align="center">
 <img src="https://i.imgur.com/eOXygjI.png" />
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg"/>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
