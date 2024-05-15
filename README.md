@@ -1,16 +1,20 @@
-<!--
+
 <p align="center">A passionate frontend developer from Mongolia</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daimkaa&show_icons=true&locale=en" alt="daimkaa" /></p> -->
-
-
-<p align="center">
- 
 </p align="center">
 <img src="https://i.imgur.com/eOXygjI.png" />
 
+<p>&nbsp;<img align="center"
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=7x5u3grp1w35fh9qavjfocriw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false">
+
+<img align="center" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg"/>
+
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+![Metrics](https://metrics.lecoq.io/Daimka?template=classic&stock=1&16personalities=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F2ef57d1d6e9bb&16personalities.sections=personality&16personalities.scores=true&stock=false&stock.symbol=NVDA&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FUlaanbaatar)
+ 
+
+<p align="center">
 <a href="https://linkedin.com/in/daimka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daimka" height="30" width="40" /></a>
 <a href="https://instagram.com/daimkathegoliath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daimkathegoliath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/damdinragcaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="damdinragcaa" height="30" width="40" /></a>
