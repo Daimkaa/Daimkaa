@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Daimkaa&theme=redical" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Daimkaa&theme=redical">
 </p>
 
 <hr>
