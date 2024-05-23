@@ -10,8 +10,8 @@
   <img class="column" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&hide=html,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages" />
     </div>
     <div class="row">
-  <img class="column" src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
-      <img class="column" src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak Stats" />
+  <img class="column" src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=30" alt="GitHub Stats" />
+      <img class="column" src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=30" alt="GitHub Streak Stats" />
     </div>
 </p>
 
