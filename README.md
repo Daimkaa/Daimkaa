@@ -4,10 +4,10 @@
 
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
 
-<p align="center">
+<p>
   <div class="row">
   <img class="column" src="https://spotify-github-profile.vercel.app/api/view?uid=7x5u3grp1w35fh9qavjfocriw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
-  <p align="center" class="column">
+  <p class="column">
     </div>
     <div class="row">
   <img class="column" src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
