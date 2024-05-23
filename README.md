@@ -10,7 +10,6 @@
 
 <img align="center" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg"/>
 
-<p align="center">
 ![Metrics](https://metrics.lecoq.io/Daimka?template=classic&stock=1&16personalities=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F2ef57d1d6e9bb&16personalities.sections=personality&16personalities.scores=true&stock=false&stock.symbol=NVDA&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FUlaanbaatar)
  
 
