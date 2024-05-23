@@ -11,12 +11,10 @@
     </div>
     <div class="row">
   <img class="column" src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
+      <img class="column" src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak Stats" />
     </div>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak Stats" />
-</p>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Daimkaa&theme=redical">
