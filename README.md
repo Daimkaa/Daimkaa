@@ -9,9 +9,9 @@
   <img class="column" src="https://spotify-github-profile.vercel.app/api/view?uid=7x5u3grp1w35fh9qavjfocriw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
   <img class="column" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&hide=html,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages" />
     </div>
-    <div class="row">
-  <img class="column" src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=30" alt="GitHub Stats" />
-      <img class="column" src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=30" alt="GitHub Streak Stats" />
+    <div class="row" align="center">
+  <img class="column" src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" height="300" width="400" />
+      <img class="column" src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak Stats" height="300" width="400" />
     </div>
 </p>
 
