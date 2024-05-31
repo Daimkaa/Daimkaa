@@ -3,6 +3,15 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" /></a>
+</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/daimka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/daimkathegoliath" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/damdinragcaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/daimkaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
 
 <p>
   <div class="row" align="center">
@@ -31,35 +40,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/daimka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/daimkathegoliath" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/damdinragcaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/daimkaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" /></a>
-</h2>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Daimkaa/Daimkaa/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
-<h2 align="center">
-  My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daimkaa&count_private=true&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&hide=html,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Daimkaa&theme=redical">
-</p>
-
 <hr>
