@@ -35,6 +35,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality, profile, traits
           plugin_16personalities_url: https://www.16personalities.com/profiles/2ef57d1d6e9bb
           plugin_spotify: yes
           plugin_spotify_limit: 5
