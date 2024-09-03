@@ -54,7 +54,11 @@
 <h2 align="center">Snake Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/Daimkaa/Daimkaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 <h2 align="center">Connect with me</h2>
