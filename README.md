@@ -27,17 +27,12 @@
   <img src="https://github.com/Daimkaa/Daimkaa/blob/main/github-metrics.svg" alt="Metrics" width="400">
 </p>
 
-<h2 align="center">Most Used Languages</h2>
+<h2 align="center">GitHub Streak & Most Used Languages</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs">
-</p>
-
-<h2 align="center">GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical" alt="GitHub Streak">
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</div>
 
 <h2 align="center">Spotify Recently Played</h2>
 
