@@ -29,9 +29,9 @@
 
 <h2 align="center">GitHub Streak & Most Used Languages</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs" width="34%" />
 </div>
 
 <h2 align="center">Spotify Recently Played</h2>
