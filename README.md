@@ -30,8 +30,8 @@
 <h2 align="center">GitHub Streak & Most Used Languages</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 120px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical" alt="GitHub Streak" width="48%" padding-right: 30px; />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs" width="34%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs" width="48%" height="30%" />
 </div>
 
 <h2 align="center">Spotify Recently Played</h2>
