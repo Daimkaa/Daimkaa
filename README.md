@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daimka</h1>
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" /></a>
+</h2>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Daimkaa&color=blueviolet" alt="Profile views"/>
