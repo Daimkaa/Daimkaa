@@ -42,7 +42,7 @@
 <h2 align="center">Spotify Recently Played</h2>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5" alt="Spotify Recently Played">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7x5u3grp1w35fh9qavjfocriw&unique={true|1|on|yes})
 </p>
 
 <h2 align="center">16Personalities</h2>
