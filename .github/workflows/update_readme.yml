@@ -62,8 +62,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.name "Daimkaa"
+          git config --local user.email "Damdinragcaa@gmail.com"
           git add README.md
           git commit -m "My Latest MonkeyType Results"
           git push
