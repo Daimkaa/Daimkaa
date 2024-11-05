@@ -2,20 +2,25 @@ name: Update README with Monkeytype Results
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:     # Allows you to manually trigger this workflow
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3 
+        uses: actions/checkout@v3
 
       - name: Set Up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Fetch Monkeytype Results and Update README Section
         env:
@@ -39,7 +44,6 @@ jobs:
           result_text = get_last_monkeytype_result("${{ secrets.MONKEYTYPE_API_KEY }}")
           new_content = f"<!-- Monkeytype Results Start -->\n{result_text}\n<!-- Monkeytype Results End -->"
 
-          # Read current README.md content
           with open("README.md", "r") as readme:
               content = readme.read()
 
@@ -51,7 +55,6 @@ jobs:
               flags=re.DOTALL
           )
 
-          # Write the updated content back to README.md
           with open("README.md", "w") as readme:
               readme.write(updated_content)
 
@@ -62,5 +65,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add README.md
-          git commit -m "Update README with latest Monkeytype Results"
+          git commit -m "My Latest MonkeyType Results"
           git push
