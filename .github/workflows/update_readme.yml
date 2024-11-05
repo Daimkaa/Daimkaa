@@ -17,13 +17,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Fetch Monkeytype Results and Update README
+      - name: Fetch Monkeytype Results and Update README Section
         env:
           MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
         run: |
           python - <<EOF
           import requests
-          import json
+          import re
 
           def get_last_monkeytype_result(api_key):
               headers = {
@@ -37,11 +37,23 @@ jobs:
                   return "No data available"
 
           result_text = get_last_monkeytype_result("${{ secrets.MONKEYTYPE_API_KEY }}")
+          new_content = f"<!-- Monkeytype Results Start -->\n{result_text}\n<!-- Monkeytype Results End -->"
 
-          # Update the README.md file
+          # Read current README.md content
+          with open("README.md", "r") as readme:
+              content = readme.read()
+
+          # Replace the placeholder section with new content
+          updated_content = re.sub(
+              r"<!-- Monkeytype Results Start -->.*<!-- Monkeytype Results End -->",
+              new_content,
+              content,
+              flags=re.DOTALL
+          )
+
+          # Write the updated content back to README.md
           with open("README.md", "w") as readme:
-              readme.write("# Monkeytype Performance\n\n")
-              readme.write(result_text)
+              readme.write(updated_content)
 
           EOF
 
@@ -50,5 +62,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add README.md
-          git commit -m "My Latest MonkeyType Results"
+          git commit -m "Update README with latest Monkeytype Results"
           git push
