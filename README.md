@@ -60,7 +60,7 @@
 </p>
 
 <!-- Monkeytype Results Start -->
-**WPM**: 125.6, **Accuracy**: 97.26%
+**WPM**: 120.39, **Accuracy**: 97.43%
 <!-- Monkeytype Results End -->
 
 <h2 align="center">Connect with me</h2>
