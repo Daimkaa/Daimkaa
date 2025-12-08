@@ -14,30 +14,6 @@
 
 </div>
 
----
-
-## 🎮 Interactive PingPong Animation
-
-<div align="center">
-
-[![PingPong Animation](https://img.shields.io/badge/🎮-Play_PingPong_Animation-98FB98?style=for-the-badge&logoColor=800080)](https://daimka.com/pingpong)
-
-**Click above to experience my interactive pingpong animation!** 🏓
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Daimka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daimkaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=98FB98&icon_color=800080&text_color=FFFFFF)
-
-</div>
-
----
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -80,7 +56,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical&hide_border=true&background=0D1117&ring=98FB98&fire=800080&currStreakLabel=98FB98)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=98FB98&text_color=FFFFFF&langs_count=8)
 
 </div>
 
@@ -93,16 +68,6 @@
 <div align="center">
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=7x5u3grp1w35fh9qavjfocriw&unique={true|1|on|yes}&width=400)
-
-</div>
-
----
-
-## 🎭 16Personalities
-
-<div align="center">
-
-![16Personalities](https://github.com/Daimkaa/Daimkaa/blob/main/16personalities.svg)
 
 </div>
 
@@ -153,7 +118,5 @@
 *I turn coffee into code and ideas into interactive experiences* ☕→💻
 
 **Thanks for visiting!** ⭐
-
-![Visitor Count](https://profile-counter.glitch.me/Daimkaa/count.svg)
 
 </div>
