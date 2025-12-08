@@ -1,78 +1,159 @@
-<h1 align="center">Hi 👋, I'm Daimka</h1>
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" /></a>
-</h2>
+<div align="center">
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=Daimkaa&color=blueviolet" alt="Profile views"/>
-</p>
+# 👋 Hi, I'm Daimka
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daimkaa&show_icons=true&theme=radical" alt="Daimka's GitHub stats" />
-</p>
+### Creative Developer & Digital Craftsman
 
-<h2 align="center">Technology Stack</h2>
+[![Profile Views](https://komarev.com/ghpvc/?username=Daimkaa&color=blueviolet&label=Profile+Views)](https://github.com/Daimkaa)
+[![GitHub followers](https://img.shields.io/github/followers/Daimkaa?style=social)](https://github.com/Daimkaa)
+[![GitHub stars](https://img.shields.io/github/stars/Daimkaa?style=social)](https://github.com/Daimkaa)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%98%8A;Creative+Developer;Building+amazing+experiences;Let's+connect+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<h2 align="center">GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://github.com/Daimkaa/Daimkaa/blob/main/github-metrics.svg" alt="Metrics" width="400">
-</p>
-
-<h2 align="center">GitHub Streak & Most Used Languages</h2>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 120px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical" alt="Top Langs" width="48%" height="191" />
 </div>
 
-<h2 align="center">Spotify Recently Played</h2>
+---
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=7x5u3grp1w35fh9qavjfocriw&unique={true|1|on|yes}" alt="Spotify Recently Played">
-</p>
+## 🎮 Interactive PingPong Animation
 
-<h2 align="center">16Personalities</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Daimkaa/Daimkaa/blob/main/16personalities.svg" alt="16Personalities" width="400">
-</p>
+[![PingPong Animation](https://img.shields.io/badge/🎮-Play_PingPong_Animation-98FB98?style=for-the-badge&logoColor=800080)](https://daimka.com/pingpong)
 
-<h2 align="center">Snake Contribution Graph</h2>
+**Click above to experience my interactive pingpong animation!** 🏓
 
-<p align="center">
-  <picture>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Daimka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daimkaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=98FB98&icon_color=800080&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+![GitHub Metrics](https://github.com/Daimkaa/Daimkaa/blob/main/github-metrics.svg)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak & Languages
+
+<div align="center">
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daimkaa&theme=radical&hide_border=true&background=0D1117&ring=98FB98&fire=800080&currStreakLabel=98FB98)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daimkaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=98FB98&text_color=FFFFFF&langs_count=8)
+
+</div>
+
+</div>
+
+---
+
+## 🎵 Spotify Recently Played
+
+<div align="center">
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=7x5u3grp1w35fh9qavjfocriw&unique={true|1|on|yes}&width=400)
+
+</div>
+
+---
+
+## 🎭 16Personalities
+
+<div align="center">
+
+![16Personalities](https://github.com/Daimkaa/Daimkaa/blob/main/16personalities.svg)
+
+</div>
+
+---
+
+## 🐍 Snake Contribution Graph
+
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daimkaa/Daimkaa/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daimkaa/Daimkaa/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Daimkaa/Daimkaa/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Daimkaa/Daimkaa/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-</p>
 
-<!-- Monkeytype Results Start -->
-**WPM**: 119.99, **Accuracy**: 96.84%
-<!-- Monkeytype Results End -->
+</div>
 
-<h2 align="center">Connect with me</h2>
+---
 
-<p align="center">
-  <a href="mailto:damdinragcaa@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/daimka/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/daimkathegoliath">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+## ⌨️ Typing Stats
+
+<div align="center">
+
+**WPM**: 119.99 | **Accuracy**: 96.84%
+
+*Powered by [Monkeytype](https://monkeytype.com)*
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-damdinragcaa@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damdinragcaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daimka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daimka/)
+[![Twitter](https://img.shields.io/badge/Twitter-@daimkathegoliath-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daimkathegoliath)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daimka.com-98FB98?style=for-the-badge&logoColor=800080)](https://daimka.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+*I turn coffee into code and ideas into interactive experiences* ☕→💻
+
+**Thanks for visiting!** ⭐
+
+![Visitor Count](https://profile-counter.glitch.me/Daimkaa/count.svg)
+
+</div>
