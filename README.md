@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daimka
 
-### Creative Developer & Digital Craftsman
+### Creative Developer & AI, ML enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Daimkaa&color=blueviolet&label=Profile+Views)](https://github.com/Daimkaa)
 [![GitHub followers](https://img.shields.io/github/followers/Daimkaa?style=social)](https://github.com/Daimkaa)
