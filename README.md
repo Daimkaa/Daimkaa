@@ -14,16 +14,6 @@
 
 </div>
 
-## 📈 GitHub Metrics
-
-<div align="center">
-
-![GitHub Metrics](https://github.com/Daimkaa/Daimkaa/blob/main/github-metrics.svg)
-
-</div>
-
----
-
 ## 🔥 GitHub Streak & Languages
 
 <div align="center">
