@@ -77,12 +77,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ Fun Fact
-*I turn coffee into code and ideas into interactive experiences* ☕→💻
-
-**Thanks for visiting!** ⭐
-
-</div>
