@@ -64,16 +64,3 @@
 </div>
 
 ---
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-damdinragcaa@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damdinragcaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daimka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daimka/)
-[![Twitter](https://img.shields.io/badge/Twitter-@daimkathegoliath-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daimkathegoliath)
-[![Portfolio](https://img.shields.io/badge/Portfolio-daimka.com-98FB98?style=for-the-badge&logoColor=800080)](https://daimka.com)
-
-</div>
-
----
